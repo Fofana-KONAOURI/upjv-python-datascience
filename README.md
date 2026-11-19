@@ -15,9 +15,9 @@ Python & Data Science réalisés sur Google Colab.
 |----|-------|--------|
 | [TD1](td01_enonce.ipynb) | Introduction à Git | :white_check_mark: |
 | [TD2](td02_enonce.ipynb) | Introduction à GitHub | :white_check_mark: |
-| [TD3](td03_enonce.ipynb) | Les bases de Python | ✅ |
-| [TD4](td04_enonce.ipynb) | Fonctions et Numpy | ✅ |
-| [TD5](td05_enonce.ipynb) | Matplotib,Dictionnaires et Pandas| ✅ |
+| [TD03](td03_enonce.ipynb) | Les bases de Python | :white_check_mark: |
+| [TD04](td04_enonce.ipynb) | Fonctions, modules et NumPy | :white_check_mark: |
+| [TD05](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
