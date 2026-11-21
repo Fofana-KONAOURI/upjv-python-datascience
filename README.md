@@ -13,8 +13,8 @@ Python & Data Science réalisés sur Google Colab.
 
 | TD | Sujet | Statut |
 |----|-------|--------|
-| [TD1](td01_enonce.ipynb) | Introduction à Git | :white_check_mark: |
-| [TD2](td02_enonce.ipynb) | Introduction à GitHub | :white_check_mark: |
+| [TD01](td01_enonce.ipynb) | Introduction à Git | :white_check_mark: |
+| [TD02](td02_enonce.ipynb) | Introduction à GitHub | :white_check_mark: |
 | [TD03](td03_enonce.ipynb) | Les bases de Python | :white_check_mark: |
 | [TD04](td04_enonce.ipynb) | Fonctions, modules et NumPy | :white_check_mark: |
 | [TD05](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
